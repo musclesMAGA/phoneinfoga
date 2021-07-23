@@ -28,7 +28,7 @@ Use "phoneinfoga [command] --help" for more information about a command.
 Use the `scan` command with the `-n` (or `--number`) option.
 
 ```
-phoneinfoga scan -n "+1 (555) 444-1212"
+phoneinfoga scan -n "+1 (503) 5157983
 phoneinfoga scan -n "+33 06 79368229"
 phoneinfoga scan -n "33679368229"
 ```
